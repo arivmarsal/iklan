@@ -38,7 +38,7 @@
                 height: '360',
                 width: '640',
                 autostart: 'true',
-                file: 'https://encodeh24.animeindo.video/video/2?url=https://www.blogger.com/video.g?token=AD6v5dwyvgjgPBw3wgmqPomrZE3iEBNKv7S4CJfR2ooIZ57NMR4kmEm3HQZypipIqtF2pDDJyZ1Bi30G_sQC0PrpxQW5fEp0APuHDCwNROWh3UScJhvYO2-2EOT8xq8THem8I2B6agvU',
+                file: 'https://jili.in/teu/blank.mp4',
                 autostart: 'true',
                 image: 'https://lh6.googleusercontent.com/-uTgmZSKZQSY/UD3e8_88GoI/AAAAAAAARY0/TL55mF65Nv0/s706/225325_145989585475022_100001919437182_290022_5418463_n.jpg',
                 advertising: {
